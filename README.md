@@ -1,6 +1,6 @@
-h1. Dynamic app start / stop PoC
+# Dynamic app start / stop PoC
 
-h2. Usage
+## Usage
 
 To build and start:
 ```
